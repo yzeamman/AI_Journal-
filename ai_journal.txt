@@ -1,4 +1,8 @@
 # AI Journal 
 
 ## Week 1 
-Due to a technical issue I only got to one problem, but I just asked a question out of curiosity. 
+Due to a technical issue, I only got to one problem, but I just asked a question out of curiosity. 
+
+## Week 2
+I used AI to ask questions, simplifying questions while also providing help with certain loops. 
+https://chatgpt.com/share/68d0c981-e798-800f-9296-2b9ddc234060
