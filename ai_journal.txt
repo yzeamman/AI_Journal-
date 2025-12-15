@@ -6,3 +6,10 @@ Due to a technical issue, I only got to one problem, but I just asked a question
 ## Week 2
 I used AI to ask questions, simplifying questions while also providing help with certain loops. 
 https://chatgpt.com/share/68d0c981-e798-800f-9296-2b9ddc234060
+
+## Week 4
+I used AI to answer clarifying questions in class and about objects and how they work together. 
+https://claude.ai/share/6bf55784-0bdf-4ab8-935b-a8b96b1622d1
+
+## Week 5
+I used AI for some more basic clarifying questions, building on the week before.
