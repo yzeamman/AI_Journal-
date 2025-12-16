@@ -17,16 +17,19 @@ more helpful. I also asked for help on strip methods.
 https://claude.ai/share/fd8f03af-fd89-4cbc-a5ba-89f986aa9929
 
 ## Week 6
+I used the AI to help me figure out ways to start working on classes without the guidance of week 5. It allowed me to figure out a
+structure and when to use the if statements. 
 
 ## Week 7
+I used AI a little for clarifying questions, but also with minimal help debugging. 
 
 ##Week 8
+I had trouble understanding the concepts, so I used AI to explain them. Most of my questions are usually we're me asking to explain as if 
+I was new to classes.
 
 ##Week 9
 
-##Week 19
-
-#Week 11
+##Week 10
 
 ##Week 12
 
