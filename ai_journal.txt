@@ -21,16 +21,20 @@ I used the AI to help me figure out ways to start working on classes without the
 structure and when to use the if statements. 
 
 ## Week 7
-I used AI a little for clarifying questions, but also with minimal help debugging. 
+I used AI to clarify questions, but also for debugging with minimal help. 
 
 ##Week 8
-I had trouble understanding the concepts, so I used AI to explain them. Most of my questions are usually we're me asking to explain as if 
+I had trouble understanding the concepts, so I used AI to explain them. Most of my questions are usually me asking to explain as if 
 I was new to classes.
 
 ##Week 9
+Minimal AI use. Only used it for 1 or 2 questions, but my previous research allowed me to understand the topic better. 
 
 ##Week 10
+Used it for clarifying questions for the week. 
 
 ##Week 12
+Used it for help figuring out which classes would be most effective for the project.
 
 #Week 13
+Didn't use AI this week. 
